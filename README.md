@@ -13,4 +13,4 @@ MyAppz is a white-label SaaS platform. **AI Agentic SaaS** puts it to work: **AI
 
 ## Use it under your own brand
 
-Both repositories are licensed CC BY 4.0, so partners can adapt them for their own clients. Keep a credit line, rename the brand, and keep your own data out of public forks.
+Both repositories are MIT licensed, so partners can rebrand, adapt and resell them for their own clients. Keep the LICENSE file, rename the brand, and keep your own data out of public forks.
