@@ -1,22 +1,20 @@
-# Karthik Naidu
+# MyAppz
 
-**Founder of AIBS (AI Business School) and CEO of SaaS Universe**
+**Open playbooks and skills for running a business with AI agents.**
 
-I help agencies, coaches and marketers stop selling deliverables and start running systems with AI agents.
+MyAppz is a white-label SaaS platform. **AI Agentic SaaS** puts it to work: **AI** (Claude, ChatGPT) x **Agentic** (Grok Bot and other agents) x **SaaS** (MyAppz). A CEO agent, a COO agent and agents for marketing, sales, operations, finance and HR work inside your own account, and nothing goes out without a person's OK.
 
-## What I build
-
-- **myappz**: the white-label SaaS platform behind SaaS Universe. Agencies run CRM, marketing, sales, finance and automation under their own brand.
-- **AI Agentic SaaS** = **AI** (Claude) x **Agentic** (Grok Bot and other agents) x **SaaS** (myappz). One agent runs the business, with a CEO, a COO and agents for marketing, sales, operations, finance and HR. Nothing goes out without a human OK.
-
-## Featured repositories
+## Repositories
 
 | Repository | What it is |
 |---|---|
-| [ai-agentic-saas](https://github.com/myappz-ai/ai-agentic-saas) | The kit: ready-to-use skills for the CEO, COO and five departments, for Claude, ChatGPT, Grok Bot and Cursor. |
+| [ai-agentic-saas](https://github.com/myappz-ai/ai-agentic-saas) | The kit: ready-to-use skills for the CEO, COO and five departments, for Claude, ChatGPT, Grok Bot and Cursor. Includes a [white-label guide](https://github.com/myappz-ai/ai-agentic-saas/blob/main/docs/WHITE_LABEL.md). |
 | [micro-app-builder](https://github.com/myappz-ai/micro-app-builder) | A platform-neutral playbook for building production micro apps with any AI assistant, from one prompt. |
 
-## Links
+## Use it under your own brand
 
-- Website: [saasuniverse.ai](https://saasuniverse.ai)
-- Events: [krn.one/event](https://krn.one/event)
+Both repositories are licensed CC BY 4.0, so partners can adapt them for their own clients. Keep a credit line, rename the brand, and keep your own data out of public forks.
+
+## Platform
+
+[saasuniverse.ai](https://saasuniverse.ai)
